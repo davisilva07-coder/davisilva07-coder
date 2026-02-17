@@ -19,7 +19,7 @@ Atualmente, estou explorando o mundo da programação e aplicando meus conhecime
 Aprender continuamente e criar soluções que impactem positivamente as pessoas.
 
 📫 **Contato** 
-
+* [Email](mailto:davisilvabsi@gmail.com)
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davisilva07-coder&show_icons=true&theme=dark&hide=stars)
 

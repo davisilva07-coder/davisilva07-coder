@@ -4,9 +4,11 @@ Sou acadêmico de **Sistemas de Informação na UFOPA** e apaixonado por tecnolo
 Atualmente, estou explorando o mundo da programação e aplicando meus conhecimentos em projetos acadêmicos e de extensão universitária.
 
 📚 **O que estou estudando**
-* **Linguagens:** Python, SQL
+* **Linguagens:** Python
+* **Banco de Dados:** PostgreSQL
+* **Web & Apps:** Streamlit - Criação de dashboards e apps de dados
 * **Áreas de Interesse:** Inteligência Artificial, Ciência de Dados e Automação
-* **Ferramentas:** Git, Pandas, PyTorch
+
 
 💡 **Projetos e Vivências**
 * **PET Saúde Digital:** Participação em iniciativas de tecnologia aplicada à saúde pública.

@@ -18,6 +18,11 @@ Atualmente, estou explorando o mundo da programação e aplicando meus conhecime
  **Meu objetivo**
 Aprender continuamente e criar soluções que impactem positivamente as pessoas.
 
+📫 **Contato** 
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davisilva07-coder&show_icons=true&theme=dark&hide=stars)
+
 
 <!--
 **davisilva07-coder/davisilva07-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

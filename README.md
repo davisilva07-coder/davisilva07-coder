@@ -1,4 +1,21 @@
-## Hi there 👋
+### Olá, eu sou o Davi! 👋
+
+Sou acadêmico de **Sistemas de Informação na UFOPA** e apaixonado por tecnologia.
+Atualmente, estou explorando o mundo da programação e aplicando meus conhecimentos em projetos acadêmicos e de extensão universitária.
+
+📚 **O que estou estudando**
+* **Linguagens:** Python, SQL
+* **Áreas de Interesse:** Inteligência Artificial, Ciência de Dados e Automação
+* **Ferramentas:** Git, Pandas, PyTorch
+
+💡 **Projetos e Vivências**
+* **PET Saúde Digital:** Participação em iniciativas de tecnologia aplicada à saúde pública.
+* **Projetos Comunitários:** Criação de soluções para gestão e organização.
+* **Estudos em Python:** Praticando lógica e desenvolvimento de scripts.
+
+🌱 **Meu objetivo**
+Aprender continuamente e criar soluções que impactem positivamente as pessoas.
+
 
 <!--
 **davisilva07-coder/davisilva07-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

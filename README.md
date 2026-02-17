@@ -13,7 +13,7 @@ Atualmente, estou explorando o mundo da programação e aplicando meus conhecime
 * **Projetos Comunitários:** Criação de soluções para gestão e organização.
 * **Estudos em Python:** Praticando lógica e desenvolvimento de scripts.
 
-🌱 **Meu objetivo**
+ **Meu objetivo**
 Aprender continuamente e criar soluções que impactem positivamente as pessoas.
 
 

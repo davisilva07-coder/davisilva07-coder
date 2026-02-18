@@ -1,4 +1,3 @@
-### Olá, eu sou o Davi! 👋
 <div align="center">
   <h1>Olá, eu sou o Davi! 👋</h1>
   <h3>Acadêmico de Sistemas de Informação na UFOPA 🎓</h3>
@@ -16,7 +15,7 @@
 
   <h3>📚 O que estou estudando</h3>
   
-  <img src="https://skillicons.dev/icons?i=python,postgres,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,java,git" />
   <br>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
   <br>

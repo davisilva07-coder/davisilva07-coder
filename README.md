@@ -1,22 +1,51 @@
 ### Olá, eu sou o Davi! 👋
+<div align="center">
+  <h1>Olá, eu sou o Davi! 👋</h1>
+  <h3>Acadêmico de Sistemas de Informação na UFOPA 🎓</h3>
 
-Sou acadêmico de **Sistemas de Informação na UFOPA** e apaixonado por tecnologia.
-Atualmente, estou explorando o mundo da programação e aplicando meus conhecimentos em projetos acadêmicos e de extensão universitária.
+  <img src="https://komarev.com/ghpvc/?username=davisilva07-coder&label=Profile%20Views&color=0e75b6&style=flat" alt="davisilva07-coder" />
 
-📚 **O que estou estudando**
-* **Linguagens:** Python
-* **Banco de Dados:** PostgreSQL
-* **Web & Apps:** Streamlit - Criação de dashboards e apps de dados
-* **Áreas de Interesse:** Inteligência Artificial, Ciência de Dados e Automação
+  <br><br>
 
+  <p>
+    Apaixonado por tecnologia, atualmente estou explorando o mundo da programação <br>
+    e aplicando meus conhecimentos em projetos acadêmicos e de extensão universitária.
+  </p>
 
-💡 **Projetos e Vivências**
-* **PET Saúde Digital:** Participação em iniciativas de tecnologia aplicada à saúde pública.
-* **Projetos Comunitários:** Criação de soluções para gestão e organização.
-* **Estudos em Python:** Praticando lógica e desenvolvimento de scripts.
+  <br>
 
- **Meu objetivo**
-Aprender continuamente e criar soluções que impactem positivamente as pessoas.
+  <h3>📚 O que estou estudando</h3>
+  
+  <img src="https://skillicons.dev/icons?i=python,postgres,vscode,git" />
+  <br>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <br>
+  <p><b>Áreas de Interesse:</b> Inteligência Artificial, Ciência de Dados e Automação</p>
+
+  <br>
+
+  <h3>💡 Projetos e Vivências</h3>
+  <p>
+    🏥 <b>PET Saúde Digital:</b> Tecnologia aplicada à saúde pública.<br>
+    🏘️ <b>Projetos Comunitários:</b> Soluções para gestão e organização.<br>
+    🐍 <b>Estudos em Python:</b> Prática de lógica e scripts.
+  </p>
+
+  <br>
+
+  <h3>🎯 Meu Objetivo</h3>
+  <p><i>"Aprender continuamente e criar soluções que impactem positivamente as pessoas."</i></p>
+
+  <br>
+
+  <h3>📫 Vamos conversar?</h3>
+  <a href="mailto:davisilvabsi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 
 <!--

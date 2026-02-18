@@ -13,7 +13,7 @@
 
   <br>
 
-  <h3>📚 O que estou estudando</h3>
+  <h3>🛠️ Tecnologias e Ferramentas</h3>
   
   <img src="https://skillicons.dev/icons?i=python,postgres,java,vscode,git" />
   <br>
@@ -27,7 +27,6 @@
   <p>
     🏥 <b>PET Saúde Digital:</b> Tecnologia aplicada à saúde pública.<br>
     🏘️ <b>Projetos Comunitários:</b> Soluções para gestão e organização.<br>
-    🐍 <b>Estudos em Python:</b> Prática de lógica e scripts.
   </p>
 
   <br>
